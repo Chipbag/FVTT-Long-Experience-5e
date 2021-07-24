@@ -1,7 +1,7 @@
 {
   "name": "Long-experience-5e",
   "title": "Long Experience for D&D5e",
-  "description": "Adjusts the xp thresholds in the dnd5e system to serve a campign with more time between level advancement.
+  "description": "Adjusts the xp thresholds in the dnd5e system to serve a campign with more time between level advancement.",
   "systems": ["dnd5e"],
   "version": "1.0.0",
   "author": "Original by Cole Schultz (cole#9640)", 
