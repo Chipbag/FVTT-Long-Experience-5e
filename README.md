@@ -1,4 +1,4 @@
-# FVTT-Simple-Experience-5e
+# FVTT-Long-Experience-5e
 
 Adjusts the xp thresholds in the dnd5e system to serve a campign with more time between level advancement.
 
